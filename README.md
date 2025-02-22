@@ -20,9 +20,10 @@ A **React & TypeScript** powered **Library System** that allows users to browse,
 
 ### 📜 Book Search & Book Details
 - **Book Search**: Find books by title, author, or category.
+- **Book Details**: View book descriptions, ratings, and availability.
  ![Book Checkout](https://raw.githubusercontent.com/nanacode4/library-frontend/main/src/Images/screenshot/Book%20Checkout.png)
 
-- **Book Details**: View book descriptions, ratings, and availability.
+
 ![Book Details](https://raw.githubusercontent.com/nanacode4/library-frontend/main/src/Images/screenshot/book%20details.png)
 
 
