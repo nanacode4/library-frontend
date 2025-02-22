@@ -5,7 +5,7 @@ A **React & TypeScript**-powered **Library System** that allows users to browse,
 
 ## 🌟 Features
 
-### 1️⃣ User Authentication
+### 🎥 User Authentication
 - **Login**: Secure login using Okta authentication.
 - **Protected Routes**: Restricts access to certain pages unless logged in.
 - **Login Callback**: Users are automatically redirected after authentication.
@@ -13,43 +13,43 @@ A **React & TypeScript**-powered **Library System** that allows users to browse,
 ![Login Page](src/Images/screenshot/login.png)
 
 
-### 2️⃣ Home Page
+### 🔹 Home Page
 - **Homepage**: Displays featured books and trending categories.
  ![Home Page](src/Images/screenshot/home.png) 
 
 
-### 3️⃣ Book Search & Book Details
+### 📜 Book Search & Book Details
 - **Book Search**: Find books by title, author, or category.
- ![Book Search](src/Images/screenshot/Book Checkout.png) 
+ ![Book Search](src/Images/screenshot/Book_Checkout.png) 
 
 - **Book Details**: View book descriptions, ratings, and availability.
- ![Book Details](src/Images/screenshot/book details.png) 
----
+ ![Book Details](src/Images/screenshot/book_details.png) 
+
 
 ### 📖 Personal Bookshelf, Loan History & Reviews 
 - **My Loans**: Keep track of borrowed books, due dates, and overdue status.  
 - **Loan History**: View past borrowed books and manage your reading records.  
 - **Review System**: Rate books and share your reading experience with other users.
-
- ![Loans](src/Images/screenshot/loan.png) 
 ![Reviews](src/Images/screenshot/history.png) 
+![Loans](src/Images/screenshot/loan.png) 
 
----
 
-### 5️⃣ Messaging System
+
+
+### 💬 Messaging System
 - **User Messages**: Communicate with administrators directly.
 - **Admin Notifications**: Receive system updates and important alerts.
 
 ![Messaging System](src/Images/screenshot/message.png)
 
----
 
-### 6️⃣ Admin Panel
+
+### 🚀 Admin Panel
 - **Manage Books**: Add, remove, or update book details.
 - **Inventory Control**: Adjust book quantities and availability.
 - **User Management**: Monitor borrowed books and overdue fines.
+![Manage Library](src/Images/screenshot/manage_library.png)
 
-![Manage Library](src/Images/screenshot/manage library.png)
 
----
+
 
