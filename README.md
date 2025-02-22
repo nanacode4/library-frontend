@@ -1,6 +1,6 @@
 # 📚 Library System
 
-A **React & TypeScript**-powered **Library System** that allows users to browse, borrow, return, and review books, while administrators can manage the library, track book inventory, and handle user interactions. The system features a secure authentication flow using Okta, a user-friendly UI, and efficient book management tools.
+A **React & TypeScript** powered **Library System** that allows users to browse, borrow, return, and review books, while administrators can manage the library, track book inventory, and handle user interactions. The system features a secure authentication flow using Okta, a user-friendly UI, and efficient book management tools.
 
 
 ## 🌟 Features
@@ -26,11 +26,10 @@ A **React & TypeScript**-powered **Library System** that allows users to browse,
  ![Book Details](src/Images/screenshot/book_details.png) 
 
 
-### 📖 Personal Bookshelf, Loan History & Reviews 
+### 📖 Personal Bookshelf, Loan History 
 - **My Loans**: Keep track of borrowed books, due dates, and overdue status.  
 - **Loan History**: View past borrowed books and manage your reading records.  
-- **Review System**: Rate books and share your reading experience with other users.
-![Reviews](src/Images/screenshot/history.png) 
+![Reviews](https://github.com/nanacode4/library-frontend/blob/main/src/Images/screenshot/history.png?raw=true) 
 ![Loans](src/Images/screenshot/loan.png) 
 
 
