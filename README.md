@@ -1,18 +1,7 @@
-# 📚 Library Management System
+# 📚 Library System
 
-A **React & TypeScript**-powered **Library Management System** that allows users to **browse, borrow, return, and review books**, while administrators can **manage the library, track book inventory, and handle user interactions**. The system features a **secure authentication flow using Okta**, a **user-friendly UI**, and **efficient book management tools**.
+A **React & TypeScript**-powered **Library System** that allows users to browse, borrow, return, and review books, while administrators can manage the library, track book inventory, and handle user interactions. The system features a secure authentication flow using Okta, a user-friendly UI, and efficient book management tools.
 
----
-
-## 📖 Table of Contents
-- [🌟 Features](#features)
-- [⚙️ Installation](#installation)
-- [🚀 Usage](#usage)
-- [🎥 Demo](#demo)
-- [🤝 Contributing](#contributing)
-- [📜 License](#license)
-
----
 
 ## 🌟 Features
 
@@ -25,15 +14,15 @@ A **React & TypeScript**-powered **Library Management System** that allows users
 
 ---
 
-### 2️⃣ Home & Book Search
+### 2️⃣ Home Page
 - **Homepage**: Displays featured books and trending categories.
-- **Book Search**: Find books by **title, author, or category**.
-
-| Homepage | Search Books |
-|----------|-------------|
-| ![Home Page](src/Images/screenshot/home.png) | ![Search Books](src/Images/screenshot/home.png) |
+| ![Home Page](src/Images/screenshot/home.png) | 
 
 ---
+### 3️⃣ Book Search
+- **Book Search**: Find books by title, author, or category.
+| ![Book Search](src/Images/screenshot/Book Checkout.png) | 
+
 
 ### 3️⃣ Book Details & Checkout
 - **Book Details**: View book descriptions, ratings, and availability.
