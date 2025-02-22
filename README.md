@@ -29,7 +29,7 @@ A **React & TypeScript** powered **Library System** that allows users to browse,
 ### 📖 Personal Bookshelf, Loan History 
 - **My Loans**: Keep track of borrowed books, due dates, and overdue status.  
 - **Loan History**: View past borrowed books and manage your reading records.  
-![Reviews](https://github.com/nanacode4/library-frontend/blob/main/src/Images/screenshot/history.png?raw=true) 
+![History](https://raw.githubusercontent.com/nanacode4/library-frontend/main/src/Images/screenshot/history.png)
 ![Loans](src/Images/screenshot/loan.png) 
 
 
@@ -47,8 +47,7 @@ A **React & TypeScript** powered **Library System** that allows users to browse,
 - **Manage Books**: Add, remove, or update book details.
 - **Inventory Control**: Adjust book quantities and availability.
 - **User Management**: Monitor borrowed books and overdue fines.
-![Manage Library](src/Images/screenshot/manage_library.png)
 
-
+![Manage Library](https://raw.githubusercontent.com/nanacode4/library-frontend/main/src/Images/screenshot/manage%20library.png)
 
 
