@@ -15,7 +15,10 @@ A **React & TypeScript** powered **Library System** that allows users to browse,
 
 ### 🔹 Home Page
 - **Homepage**: Displays featured books and trending categories.
- ![Home Page](src/Images/screenshot/home.png) 
+ ![Home Page](src/Images/screenshot/home.png)
+![Home1](https://raw.githubusercontent.com/nanacode4/library-frontend/main/src/Images/screenshot/h2.png)
+![Home2](https://raw.githubusercontent.com/nanacode4/library-frontend/main/src/Images/screenshot/h3.png)
+
 
 
 ### 📜 Book Search & Book Details
@@ -34,7 +37,7 @@ A **React & TypeScript** powered **Library System** that allows users to browse,
 - **My Loans**: Keep track of borrowed books, due dates, and overdue status.  
 - **Loan History**: View past borrowed books and manage your reading records.  
 ![History](https://raw.githubusercontent.com/nanacode4/library-frontend/main/src/Images/screenshot/history.png)
-![Loans](src/Images/screenshot/loan.png) 
+![Loans](src/Images/screenshot/loans.png) 
 
 
 
