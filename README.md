@@ -45,9 +45,17 @@ A **React & TypeScript** powered **Library System** that allows users to browse,
 ### 💬 Messaging System
 - **User Messages**: Communicate with administrators directly.
 - **Admin Notifications**: Receive system updates and important alerts.
-![question](https://raw.githubusercontent.com/nanacode4/library-frontend/main/src/Images/screenshot/qa respond.png)
-![q/a](https://raw.githubusercontent.com/nanacode4/library-frontend/main/src/Images/screenshot/sub -q.png)
-![Messaging System](src/Images/screenshot/message.png)
+![question](https://raw.githubusercontent.com/nanacode4/library-frontend/main/src/Images/screenshot/qa%20respond.png)
+![q/a](https://raw.githubusercontent.com/nanacode4/library-frontend/main/src/Images/screenshot/sub%20-q.png)
+
+## 📚 Overdue Books & Fees
+
+If books are not returned on time, a **late fee** will be applied. No fees if returned on time. Overdue books will incur a charge. Fees can be paid under the **"Pay Fees"** section.
+#### ❌ Overdue Fees  
+![Pending Fees](https://raw.githubusercontent.com/nanacode4/library-frontend/main/src/Images/screenshot/p1.png)
+
+#### ✅ No Fees  
+![No Fees](https://raw.githubusercontent.com/nanacode4/library-frontend/main/src/Images/screenshot/p2.png)
 
 
 
