@@ -49,11 +49,9 @@ A **React & TypeScript** powered **Library System** that allows users to browse,
 ![q/a](https://raw.githubusercontent.com/nanacode4/library-frontend/main/src/Images/screenshot/sub%20-q.png)
 
 ## 📚 Overdue Books & Fees
-
 If books are not returned on time, a **late fee** will be applied. No fees if returned on time. Overdue books will incur a charge. Fees can be paid under the **"Pay Fees"** section.
 #### ❌ Overdue Fees  
 ![Pending Fees](https://raw.githubusercontent.com/nanacode4/library-frontend/main/src/Images/screenshot/p1.png)
-
 #### ✅ No Fees  
 ![No Fees](https://raw.githubusercontent.com/nanacode4/library-frontend/main/src/Images/screenshot/p2.png)
 
